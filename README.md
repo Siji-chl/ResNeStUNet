@@ -7,4 +7,4 @@ Haolin Chen, Shuqi Li, Youming Zhang, Lizhi Liu, Xiaofei Lv, Yongju Yi, Guangyin
 (under review)
 
 # License
-See [LICENSE.md](LICENSE.md)
+See [LICENSE](LICENSE)
