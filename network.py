@@ -1,7 +1,8 @@
 import numpy as np
 import torch
-from blocks import StackedConvLayers, ResNeStLayer, ResNeStBlock, ResidualBlock
 from torch import nn
+from blocks import StackedConvLayers, ResNeStLayer, ResNeStBlock, ResidualBlock
+
 
 
 class ResNeStUNetEncoder(nn.Module):
