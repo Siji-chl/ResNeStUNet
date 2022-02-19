@@ -5,7 +5,7 @@ Implementation of the network for meningioma segmentation.
 The network is a modified 3D UNet. We use the ResNeSt blocks, proposed by Zhang et al. [[arXiv](https://arxiv.org/pdf/2004.08955.pdf)], in the encoder.
 
 # Dependencies
-The code is only tested in the environment as following
+The code has been only tested in the environment as following
 - Ubuntu 18.04.6 LTS
 - Python 3.6.13
 - Pytorch 1.1.0
