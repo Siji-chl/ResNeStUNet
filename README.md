@@ -2,7 +2,7 @@
 Implementation of the network for meningioma segmentation.
 
 # Description
-The network is a modified 3D UNet. We used the ResNeSt blocks, proposed by Zhang et al. [[arXiv](https://arxiv.org/pdf/2004.08955.pdf)], in the encoder.
+The network is a modified 3D UNet. We use the ResNeSt blocks, proposed by Zhang et al. [[arXiv](https://arxiv.org/pdf/2004.08955.pdf)], in the encoder.
 
 # Reference
 Haolin Chen, Shuqi Li, Youming Zhang, Lizhi Liu, Xiaofei Lv, Yongju Yi, Guangying Ruan, Chao Ke, Yanqiu Feng.
